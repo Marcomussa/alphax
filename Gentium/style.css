@@ -2112,9 +2112,7 @@ a.uk-slidenav {
     font-size: 80px; } }
 
 @media (min-width: 1200px) {
-  #pr_features {
-    padding-bottom: 0px;
-  }
+  
   /* Section: Hero */
   .pr__hero__wrap {
     background-position: 70%; }
